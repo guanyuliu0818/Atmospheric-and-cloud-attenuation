@@ -1,8 +1,6 @@
 # Atmospheric-and-cloud-attenuation
-Atmospheric and cloud attenuation calculations in satellite communications
+Atmospheric and cloud attenuation calculations in satellite communications\
 
-
-## 这是逐线法计算大气衰减的程序和数据
 
 
 ### code：
