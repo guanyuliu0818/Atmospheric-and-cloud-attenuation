@@ -1,10 +1,5 @@
 # Atmospheric-and-cloud-attenuation
-Atmospheric and cloud attenuation calculations in satellite communications
-# Atmospheric-and-cloud-attenuation
 Atmospheric and cloud attenuation calculations in satellite communications\
-
-
-
 ### code(In main branch)：
 这是程序文件夹\
 cal_gamma_54: gamma函数\
