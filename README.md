@@ -24,4 +24,4 @@ yangjiaodeqingxielujingshuaijian：5°到90°之间的仰角的倾斜路径衰�
 这是二进制数据文件夹\
 XXX_TT.bin\
 XXX：物理量\
-TT：格林威治时间\
+TT：格林威治时间
