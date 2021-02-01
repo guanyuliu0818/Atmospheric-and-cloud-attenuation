@@ -3,7 +3,7 @@ Atmospheric and cloud attenuation calculations in satellite communications\
 
 
 
-### code：
+### code(In main branch)：
 这是程序文件夹\
 cal_gamma_54: gamma函数\
 dengxiaogaodu：等效高度计算\
@@ -18,7 +18,7 @@ read_vd：读取水蒸气密度\
 tezhengshuaijian：特征衰减率计算\
 yangjiaodeqingxielujingshuaijian：5°到90°之间的仰角的倾斜路径衰减的计算\
 
-### data:
+### data(In master branch):
 这是二进制数据文件夹\
 XXX_TT.bin\
 XXX：物理量\
